@@ -1,9 +1,11 @@
 package pleaseWork;
 
 public class superpleasework {
-
+	int x = 5;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		superpleasework prettyPleaseWork = new superpleasework();
+		
+		System.out.println(prettyPleaseWork.x);
 
 	}
 
